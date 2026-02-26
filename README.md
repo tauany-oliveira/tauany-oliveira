@@ -1,16 +1,46 @@
-## Hi there 👋
+## Tauany Oliveira 💫
+**`Desenvolvedora Front-end`**
 
-<!--
-**tauany-oliveira/tauany-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Estudante de Analise e Desenvolvimento de Sistemas
+* Em busca de estágio na área de desenvolvimento
 
-Here are some ideas to get you started:
+Meu nome é Tauany, tenho 22 anos e moro em São Paulo <br>
+Atualmente estou desenvolvendo projetos para fortalecer meu portfólio e aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="FIGMA" 
+    title="FIGMA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+
+ 
+           
+          
+          
+
+           
