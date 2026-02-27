@@ -40,7 +40,15 @@ Atualmente estou desenvolvendo projetos para fortalecer meu portfólio e aprimor
 
  
            
-          
+    
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tauany-oliveira/tauany-oliveira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tauany-oliveira/tauany-oliveira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tauany-oliveira/tauany-oliveira/output/pacman-contribution-graph.svg">
+</picture>
+
+###
           
 
            
