@@ -1,5 +1,4 @@
-## Tauany Oliveira 💫
-**`Desenvolvedora Front-end`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=4000&size=30&duration=3000&pause=1000&color=F70EEB&width=445&lines=Tauany+Oliveira+;Desenvolvedora+Front-end)](https://git.io/typing-svg)
 
 * Estudante de Analise e Desenvolvimento de Sistemas
 * Em busca de estágio na área de desenvolvimento
@@ -45,4 +44,5 @@ Atualmente estou desenvolvendo projetos para fortalecer meu portfólio e aprimor
 </picture>
 
 ###
-          
+
+
