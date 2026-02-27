@@ -9,7 +9,7 @@ Atualmente estou desenvolvendo projetos para fortalecer meu portfólio e aprimor
 
 
 ---
-### Tecnologias e Ferramentas
+### Tecnologia e Ferramentas
 
 <img 
     align="left" 
