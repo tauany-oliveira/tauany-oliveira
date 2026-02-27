@@ -8,16 +8,6 @@ Meu nome é Tauany, tenho 22 anos e moro em São Paulo <br>
 Atualmente estou desenvolvendo projetos para fortalecer meu portfólio e aprimorar minhas habilidades.
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=tauany-oliveira&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tauany-oliveira&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tauany-oliveira&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=tauany-oliveira&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 <img 
     align="left" 
