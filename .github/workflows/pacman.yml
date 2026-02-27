@@ -1,33 +1,39 @@
-name: Generate pacman animation
+name: Atualizar animação do Pacman
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # executa a cada 12 horas
     - cron: "* */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
-  generate:
+  atualizar-pacman:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      # 1️⃣ Baixar o repositório
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      # 2️⃣ Gerar o gráfico Pacman
+      - name: Gerar pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      # 3️⃣ Publicar no GitHub Pages
+      - name: Publicar no GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: gh-pages       # branch do GitHub Pages
+          build_dir: dist               # pasta gerada pelo Pacman
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
